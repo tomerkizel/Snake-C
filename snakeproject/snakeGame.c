@@ -1,5 +1,4 @@
-//Tomer Kizel
-//315765891
+
 
 #include <stdio.h>
 #include <conio.h>
